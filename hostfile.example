@@ -1,0 +1,5 @@
+# hostfile.example — cum 3 may, 2 rank moi may = 6 rank
+# Copy thanh ~/hostfile va sua IP/hostname cho khop /etc/hosts.
+node1 slots=2
+node2 slots=2
+node3 slots=2
